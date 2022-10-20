@@ -3,6 +3,7 @@
 }
 
 body {
+  margin: 0;
   font-family: "Montserrat", sans-serif;
   background-color: #f5f7fa;
 }
@@ -18,12 +19,10 @@ body {
 
 /* main content section */
 .main-content-section {
-  padding-top: 60px;
-  padding-bottom: 20px;
+  padding-top: 100px;
+  padding-bottom: 40px;
   padding-left: 90px;
   padding-right: 90px;
-  /* padding: 60px 90px; */
-  /* padding: 100px 90px; */
 }
 
 .main-content-title {
@@ -36,7 +35,6 @@ body {
   line-height: 27px;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  /* text-shadow: 1px 1px 2px black; */
   color: #ffffff;
   background-color: #787878;
 }
@@ -121,7 +119,6 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: underline;
-  /* color: #595959; */
   color: #2b67cd;
 }
 
@@ -189,7 +186,6 @@ body {
   line-height: 27px;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  /* text-shadow: 1px 1px 2px black; */
   color: #ffffff;
   background-color: #787878;
 }
@@ -258,7 +254,6 @@ body {
   text-transform: uppercase;
   color: #ffffff;
   background-color: #787878;
-  /* text-shadow: 1px 1px 2px black; */
 }
 
 .contacts-wrap {
